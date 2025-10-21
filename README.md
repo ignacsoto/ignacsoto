@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ignacio Soto
 
-<!--
-**ignacsoto/ignacsoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **4th-year Civil Computer Engineering student**. I’m passionate about learning and applying technologies to build projects that generate real impact.  
 
-Here are some ideas to get you started:
+## 🔭 Currently Learning
+- **Microsoft Playwright** for automated E2E testing  
+- **JavaScript** and web development frameworks  
+- Fundamentals of **software development** and **cloud environments**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Programming:** Python (Data Analysis/ML), SQL  
+- **Frontend:** React (learning)  
+- **Version Control:** Git, GitHub  
+- **Methodologies:** Scrum, teamwork and collaboration  
+
+## 🌱 Interests
+- Software development  
+- Data engineering / Big Data  
+- Cloud computing and system architecture  
+- Test automation and quality assurance  
+
+## 📫 Contact
+- Connect on [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
