@@ -20,4 +20,4 @@ I'm a **4th-year Civil Computer Engineering student**. I’m passionate about le
 - Test automation and quality assurance  
 
 ## 📫 Contact
-- Connect on [LinkedIn](https://www.linkedin.com/in/tu-perfil/)  
+- Connect on [LinkedIn](www.linkedin.com/in/ignacio-soto-apablaza-3b48672b2)  
