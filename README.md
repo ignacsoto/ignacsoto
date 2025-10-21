@@ -13,7 +13,7 @@ I'm a **4th-year Civil Computer Engineering student**. I’m passionate about le
 - **Version Control:** Git, GitHub  
 - **Methodologies:** Scrum, teamwork and collaboration  
 
-## 🌱 Interests
+## Interests
 - Software development  
 - Data engineering / Big Data  
 - Cloud computing and system architecture  
