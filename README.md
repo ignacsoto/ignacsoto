@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ignacio Soto
+# Hi, I'm Ignacio Soto
 
 I'm a **4th-year Civil Computer Engineering student** with a strong interest in software development and web technologies.
 ## Currently Learning
@@ -19,5 +19,5 @@ I'm a **4th-year Civil Computer Engineering student** with a strong interest in 
 - Cloud computing and system architecture  
 - Test automation and quality assurance  
 
-## 📫 Contact
+## Contact
 - Connect on [LinkedIn](https://www.linkedin.com/in/ignacio-soto-apablaza-3b48672b2/)  
