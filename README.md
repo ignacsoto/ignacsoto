@@ -1,23 +1,23 @@
 # Hi, I'm Ignacio Soto
 
-I'm a **4th-year Civil Computer Engineering student** with a strong interest in software development and web technologies.
-## Currently Learning
-- **JavaScript** and web development frameworks
-- **React** (in progress)
-- Fundamentals of **software development** and **cloud environments**
-- **Microsoft Playwright** for automated E2E testing  
+I'm a **4th-year Civil Computer Engineering student**. Passionate about software quality, automation, and modern web development.
 
 ## Skills
-- **Programming:** Python (Data Analysis/ML), SQL
-- **Frontend:** HTML, CSS
-- **Version Control:** Git, GitHub  
-- **Methodologies:** Scrum, teamwork and collaboration  
+### QA Automation
+- Automated testing with **Microsoft Playwright**
+- Test management & bug reporting using **Azure Test Plans**
+- Quality tracking and workflow management in **Azure DevOps**
+- **CI/CD** integration with **Azure Pipelines**
 
-## Interests
-- Software development  
-- Data engineering / Big Data  
-- Cloud computing and system architecture  
-- Test automation and quality assurance  
+### Frontend
+- Web applications with **React**
+  
+### Methodologies
+- Agile frameworks (Scrum)
+- Teamwork & cross-functional collaboration
+  
+## Currently Learning
+- C# and strengthening backend fundamentals
 
 ## Contact
 - Connect on [LinkedIn](https://www.linkedin.com/in/ignacio-soto-apablaza-3b48672b2/)  
