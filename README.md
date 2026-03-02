@@ -1,6 +1,6 @@
 # Hi, I'm Ignacio Soto
 
-I'm a **4th-year Civil Computer Engineering student**. Passionate about software quality, automation, and modern web development.
+I'm a **5th-year Civil Computer Engineering student**. Passionate about software quality, automation, and modern web development.
 
 ## Skills
 ### QA Automation
